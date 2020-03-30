@@ -6,8 +6,6 @@ https://2016.halite.io
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
-One to two paragraph statement about your product and what it does.
-
 ![](header.png)
 
 ## Installation
