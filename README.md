@@ -56,11 +56,9 @@ npm test
 
 ## Meta
 
-Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
+Wills Liou – [@willsliou](https://twitter.com/willsliou)
 
-Distributed under the XYZ license. See ``LICENSE`` for more information.
-
-[https://github.com/yourname/github-link](https://github.com/dbader/)
+[https://github.com/willsliou/halite1](https://github.com/willsliou/)
 
 ## Contributing
 
